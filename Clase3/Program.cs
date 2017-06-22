@@ -10,11 +10,7 @@ namespace Clase3
     {
         static void Main(string[] args)
         {
-            int Parameters;
-            int Objetos=6;
-            Parameters = 5;
-            if (Parameters == 10) {
-                Parameters.CompareTo(Objetos);
+            var cp = 'Hola Mundo';
             }
         }
     }
